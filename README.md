@@ -1,1 +1,1 @@
-https://github.com/avari77343/comp484-date/date.html
+https://avari77343.github.io/comp484-date/date.html
